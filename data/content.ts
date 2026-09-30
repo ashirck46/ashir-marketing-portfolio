@@ -6,7 +6,7 @@ export const profile = {
   title: "Digital Marketing Specialist",
   focus: "Real estate performance marketing and social content, Dubai",
   positioning:
-    "I turn Instagram attention into qualified property leads: 382 high-intent leads at AED 9.37 each for a Dubai luxury real estate brand.",
+    "I turn Instagram attention into qualified property leads: 823 high-intent leads at AED 9.37 each for a Dubai luxury real estate brand.",
   email: "ashircka@gmail.com",
   phone: "+971 50 718 1286",
   location: "Dubai, UAE",
@@ -16,7 +16,7 @@ export const profile = {
 };
 
 export const ledger = [
-  { label: "High-intent leads", value: "382", note: "at AED 9.37 cost per lead" },
+  { label: "High-intent leads", value: "823", note: "at AED 9.37 cost per lead" },
   { label: "Direct client inquiries", value: "528", note: "at AED 1.70 per conversation" },
   { label: "Best single Reel", value: "3.6M", note: "views, 2.9M unique reach" },
   { label: "Instagram followers", value: "79 to 2,121+", note: "targeted followers, Gursaya Real Estate" },
@@ -119,11 +119,38 @@ export const experience = [
 ];
 
 export const skills = [
-  { group: "Paid media and leads", items: ["Performance marketing", "Meta Ads", "TikTok Ads", "Lead generation", "CRM management"] },
-  { group: "Social and content", items: ["Social media marketing", "Content strategy", "SEO", "Video editing and videography"] },
-  { group: "Design and AI creative", items: ["Graphic design", "Brand identity", "AI-assisted marketing", "Runway ML", "Veo3", "Kling"] },
-  { group: "Web and analytics", items: ["WordPress and Elementor", "Google Analytics", "Meta Business Suite"] },
-  { group: "Tools", items: ["Adobe Photoshop", "Adobe Illustrator", "CapCut", "Claude AI", "ChatGPT"] },
+  {
+    group: "Paid media and leads",
+    items: [
+      "Performance marketing", "Meta Ads", "Google Ads", "TikTok Ads", "Lead generation", "CRM management",
+      // Not on your CV. Delete any you can't do:
+      "Meta Pixel and Conversions API", "UTM tracking", "Google Tag Manager", "A/B and creative testing",
+      "Retargeting and audience targeting", "ROAS and CPL reporting", "Budget management", "Looker Studio dashboards",
+    ],
+  },
+  {
+    group: "Social and content",
+    items: [
+      "Social media marketing", "Content strategy", "Content calendar and scheduling", "Community management",
+      "Trend and moment marketing", "Seasonal and festive campaigns", "Video editing and videography",
+      // Not on your CV. Delete any you can't do:
+      "Copywriting", "Email marketing", "WhatsApp marketing",
+    ],
+  },
+  {
+    group: "SEO and web",
+    items: [
+      "SEO", "SEMrush", "WordPress and Elementor", "Google Analytics",
+      // Not on your CV. Delete any you can't do:
+      "Keyword research", "Google Search Console", "Landing page optimization",
+    ],
+  },
+  {
+    group: "AI marketing and creative",
+    items: ["AI marketing", "AI content creation", "AI video creation", "AI automations", "Runway ML", "Veo3", "Kling"],
+  },
+  { group: "Design", items: ["Graphic design", "Brand identity"] },
+  { group: "Tools", items: ["Adobe Photoshop", "Adobe Illustrator", "CapCut", "Meta Business Suite", "Claude AI", "ChatGPT"] },
 ];
 
 export const education = [
