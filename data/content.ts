@@ -5,8 +5,9 @@ export const profile = {
   name: "Muhammed Ashir CK",
   title: "Digital Marketing Specialist",
   focus: "Real estate performance marketing and social content, Dubai",
+  headline: "Performance marketer and content creator for Dubai.",
   positioning:
-    "I turn Instagram attention into qualified property leads: 823 high-intent leads at AED 9.37 each for a Dubai luxury real estate brand.",
+    "I run the ads and make the content. 823 high-intent leads at AED 9.37 each for a Dubai real estate brand.",
   email: "ashircka@gmail.com",
   phone: "+971 50 718 1286",
   location: "Dubai, UAE",

@@ -5,8 +5,11 @@ export default function Hero() {
     <section id="top" className="mx-auto max-w-5xl px-5 pb-16 pt-14 sm:pb-24 sm:pt-24">
       <p className="rise text-sm text-mute">{profile.title}. {profile.focus}.</p>
       <h1 className="rise rise-2 mt-4 max-w-3xl font-display text-4xl leading-[1.1] tracking-tight sm:text-6xl">
-        {profile.positioning}
+        {profile.headline}
       </h1>
+      <p className="rise rise-2 mt-5 max-w-2xl text-lg leading-relaxed text-mute sm:text-xl">
+        {profile.positioning}
+      </p>
       <div className="rise rise-2 mt-8 flex flex-wrap gap-3">
         <a href="#work" className="rounded-full bg-accent px-5 py-2.5 text-sm font-medium text-bg transition-opacity hover:opacity-90">
           See the campaign results
