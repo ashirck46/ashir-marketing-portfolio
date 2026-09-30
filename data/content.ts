@@ -12,7 +12,7 @@ export const profile = {
   phone: "+971 50 718 1286",
   location: "Dubai, UAE",
   website: "https://aashiir.com",
-  linkedin: "", // paste your LinkedIn URL here to show it
+  linkedin: "https://www.linkedin.com/in/muhammedaashir/",
   cv: "/Muhammed-Ashir-CK-CV.pdf",
 };
 
