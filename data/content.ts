@@ -6,7 +6,7 @@ export const profile = {
   title: "Digital Marketing Specialist",
   focus: "Real estate performance marketing and social content, Dubai",
   positioning:
-    "I turn Instagram attention into qualified property leads: 382 high-intent leads at AED 9.37 each for a Dubai luxury real estate brand.",
+    "I turn Instagram attention into qualified property leads: 823 high-intent leads at AED 9.37 each for a Dubai luxury real estate brand.",
   email: "ashircka@gmail.com",
   phone: "+971 50 718 1286",
   location: "Dubai, UAE",
@@ -16,7 +16,7 @@ export const profile = {
 };
 
 export const ledger = [
-  { label: "High-intent leads", value: "382", note: "at AED 9.37 cost per lead" },
+  { label: "High-intent leads", value: "823", note: "at AED 9.37 cost per lead" },
   { label: "Direct client inquiries", value: "528", note: "at AED 1.70 per conversation" },
   { label: "Best single Reel", value: "3.6M", note: "views, 2.9M unique reach" },
   { label: "Instagram followers", value: "79 to 2,121+", note: "targeted followers, Gursaya Real Estate" },
