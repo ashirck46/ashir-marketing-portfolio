@@ -124,27 +124,20 @@ export const skills = [
     group: "Paid media and leads",
     items: [
       "Performance marketing", "Meta Ads", "Google Ads", "TikTok Ads", "Lead generation", "CRM management",
-      // Not on your CV. Delete any you can't do:
       "Meta Pixel and Conversions API", "UTM tracking", "Google Tag Manager", "A/B and creative testing",
-      "Retargeting and audience targeting", "ROAS and CPL reporting", "Budget management", "Looker Studio dashboards",
+      "ROAS and CPL reporting",
     ],
   },
   {
     group: "Social and content",
     items: [
       "Social media marketing", "Content strategy", "Content calendar and scheduling", "Community management",
-      "Trend and moment marketing", "Seasonal and festive campaigns", "Video editing and videography",
-      // Not on your CV. Delete any you can't do:
-      "Copywriting", "Email marketing", "WhatsApp marketing",
+      "Trend and moment marketing", "Video editing and videography", "Copywriting", "Email marketing",
     ],
   },
   {
     group: "SEO and web",
-    items: [
-      "SEO", "SEMrush", "WordPress and Elementor", "Google Analytics",
-      // Not on your CV. Delete any you can't do:
-      "Keyword research", "Google Search Console", "Landing page optimization",
-    ],
+    items: ["SEO", "SEMrush", "WordPress and Elementor", "Google Analytics", "Google Search Console"],
   },
   {
     group: "AI marketing and creative",
