@@ -119,11 +119,38 @@ export const experience = [
 ];
 
 export const skills = [
-  { group: "Paid media and leads", items: ["Performance marketing", "Meta Ads", "TikTok Ads", "Lead generation", "CRM management"] },
-  { group: "Social and content", items: ["Social media marketing", "Content strategy", "SEO", "Video editing and videography"] },
-  { group: "Design and AI creative", items: ["Graphic design", "Brand identity", "AI-assisted marketing", "Runway ML", "Veo3", "Kling"] },
-  { group: "Web and analytics", items: ["WordPress and Elementor", "Google Analytics", "Meta Business Suite"] },
-  { group: "Tools", items: ["Adobe Photoshop", "Adobe Illustrator", "CapCut", "Claude AI", "ChatGPT"] },
+  {
+    group: "Paid media and leads",
+    items: [
+      "Performance marketing", "Meta Ads", "Google Ads", "TikTok Ads", "Lead generation", "CRM management",
+      // Not on your CV. Delete any you can't do:
+      "Meta Pixel and Conversions API", "UTM tracking", "Google Tag Manager", "A/B and creative testing",
+      "Retargeting and audience targeting", "ROAS and CPL reporting", "Budget management", "Looker Studio dashboards",
+    ],
+  },
+  {
+    group: "Social and content",
+    items: [
+      "Social media marketing", "Content strategy", "Content calendar and scheduling", "Community management",
+      "Trend and moment marketing", "Seasonal and festive campaigns", "Video editing and videography",
+      // Not on your CV. Delete any you can't do:
+      "Copywriting", "Email marketing", "WhatsApp marketing",
+    ],
+  },
+  {
+    group: "SEO and web",
+    items: [
+      "SEO", "SEMrush", "WordPress and Elementor", "Google Analytics",
+      // Not on your CV. Delete any you can't do:
+      "Keyword research", "Google Search Console", "Landing page optimization",
+    ],
+  },
+  {
+    group: "AI marketing and creative",
+    items: ["AI marketing", "AI content creation", "AI video creation", "AI automations", "Runway ML", "Veo3", "Kling"],
+  },
+  { group: "Design", items: ["Graphic design", "Brand identity"] },
+  { group: "Tools", items: ["Adobe Photoshop", "Adobe Illustrator", "CapCut", "Meta Business Suite", "Claude AI", "ChatGPT"] },
 ];
 
 export const education = [
